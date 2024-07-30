@@ -17,7 +17,6 @@ This is a sample project repository for the GitHub exercise in our collaboration
    - **Introduction**: Hi, I'm Seth, my interests are game dev, most things to do with computer science and playing challenging games.
    - **Favorite Programming Language**: C#, mainly because it is what I have used throughout my learning and any of my random projects.
 
-
 1. **Ryan**
    - **Introduction**: Kia ora, I am a first year computer science student, and the student rep for this class. I enjoy playing fps games and photography.
    - **Favorite Programming Language**: C# and python are the only 'proper' programming languages I know. Out of the 2, I prefer c#.
