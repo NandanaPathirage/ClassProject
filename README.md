@@ -25,6 +25,9 @@ This is a sample project repository for the GitHub exercise in our collaboration
  1. **Evi**
         - **Introduction**: Hi, I am Evi and I am a first year computer science student at Waikato University.
         - **Favorite Programming Language**: C#, because it is the one I am most familiar with.
+5. **Oliver**
+	- **Introduction**: Hi, I'm Oliver. I'm a first year CS student.
+	- **Favourite Programming Language**: TypeScript or C++ for Arduino. 
 
 ## Step 1: Fork the Repository
 1. Go to the repository link provided by the instructor.
