@@ -9,13 +9,14 @@ This is a sample project repository for the GitHub exercise in our collaboration
    - **Introduction**: Hello, I'm John Doe, a final-year computer science student.
    - **Favorite Programming Language**: Python, because it's versatile and has a large community.
 
-2. **Jane Smith**
+2.**Jane Smith**
    - **Introduction**: Hi, I'm Jane Smith, interested in software development and AI.
    - **Favorite Programming Language**: JavaScript, because it's essential for web development and has a great ecosystem.
-
+     
 3. **Seth Wagener**
    - **Introduction**: Hi, I'm Seth, my interests are game dev, most things to do with computer science and playing challenging games.
    - **Favorite Programming Language**: C#, mainly because it is what I have used throughout my learning and any of my random projects.
+
 
 ## Step 1: Fork the Repository
 1. Go to the repository link provided by the instructor.
