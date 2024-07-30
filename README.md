@@ -32,9 +32,9 @@ This is a sample project repository for the GitHub exercise in our collaboration
      ```markdown
      ## Student Introductions
 
-     1. **Your Name**
-        - **Introduction**: Brief introduction about yourself.
-        - **Favorite Programming Language**: Explain why you like this language.
+     1. **Gurpartap Singh**
+        - **Introduction**: Hi my name is Gurpartap and I'm a first year student doing computer science.
+        - **Favorite Programming Language**: C# is my favorite language to write because it is a widely used and makes more sense to me than others.
      ```
 
 ## Step 5: Commit Your Changes
