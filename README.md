@@ -28,6 +28,9 @@ This is a sample project repository for the GitHub exercise in our collaboration
 	- **Introduction**: Hi, I'm Oliver. I'm a first year CS student.
 	- **Favourite Programming Language**: TypeScript or C++ for Arduino. 
 
+1. **Ayush**:
+          - **Introduction**: Hi, I'm Ayush, I am a first year Data Analytics student
+          - **Favourite Programming Language**: Matlab because not many people use it.
 ## Step 1: Fork the Repository
 1. Go to the repository link provided by the instructor.
 2. Click the "Fork" button at the top right corner of the repository page.
