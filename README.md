@@ -28,8 +28,8 @@ This is a sample project repository for the GitHub exercise in our collaboration
 	- **Introduction**: Hi, I'm Oliver. I'm a first year CS student.
 	- **Favourite Programming Language**: TypeScript or C++ for Arduino.
 6. **William**
- 	-**Introduction**: Hi, I am William and i am a first year student doing Data Science.
-   	-**Favorite Programming Language**: C# is my favourite as it is a widely used languge and is a language i understand more.
+ 	- **Introduction**: Hi, I am William and i am a first year student doing Data Science.
+   	- **Favorite Programming Language**: C# is my favourite as it is a widely used languge and is a language i understand more.
 
 ## Step 1: Fork the Repository
 1. Go to the repository link provided by the instructor.
