@@ -27,7 +27,7 @@ This is a sample project repository for the GitHub exercise in our collaboration
 5. **Oliver**
 	- **Introduction**: Hi, I'm Oliver. I'm a first year CS student.
 	- **Favourite Programming Language**: TypeScript or C++ for Arduino.
-6. **William**
+6. **William Young**
  	- **Introduction**: Hi, I am William and i am a first year student doing Data Science.
    	- **Favorite Programming Language**: C# is my favourite as it is a widely used languge and is a language i understand more.
 
@@ -60,7 +60,7 @@ This is a sample project repository for the GitHub exercise in our collaboration
 2. In the "Commit message" field, enter a brief description of your changes (e.g., "Added my introduction and favorite programming language").
 3. Ensure "Commit directly to the [branch name] branch" is selected.
 4. Click the green "Commit changes" button.
-##Changes, made i have added my favorite coding language with a introduction about myself and what i am studying.
+	##Changes, made i have added my name also my favorite coding language with a introduction about myself and what i am studying.
 ## Step 6: Create a Pull Request
 1. Go back to the main page of your forked repository.
 2. Click the "Pull requests" tab.
