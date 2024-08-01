@@ -12,6 +12,10 @@ This is a sample project repository for the GitHub exercise in our collaboration
 2. **Jane Smith**
    - **Introduction**: Hi, I'm Jane Smith, interested in software development and AI.
    - **Favorite Programming Language**: JavaScript, because it's essential for web development and has a great ecosystem.
+     
+   **Gurpartap Singh**
+   - **Introduction**: Hi my name is Gurpartap and I'm a first year student doing computer science.
+   - **Favorite Programming Language**: C# is my favorite language to write because it is a widely used and makes more sense to me than others..
 
 ## Step 1: Fork the Repository
 1. Go to the repository link provided by the instructor.
