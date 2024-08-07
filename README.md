@@ -41,7 +41,7 @@ This is a sample project repository for the GitHub exercise in our collaboration
 
 8. **Liz**
         - **Introduction**: Hi my name is Liz, and I'm a first year student undertaking Digital Business and Supply Chain Management.
-        - **Favorite Programming Language**: Don't really have a favourite programming language. Although I find HTML easier to understand/problem solve, and I have dabbled in VBA (Excel) which was an interesting experience. 
+        - **Favorite Programming Language**: Don't really have a favourite programming language. Although I find HTML easier to understand/problem solve, also VBA (Excel) which was an interesting experience. 
    
 ## Step 1: Fork the Repository
 1. Go to the repository link provided by the instructor.
