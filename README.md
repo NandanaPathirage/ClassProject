@@ -38,6 +38,10 @@ This is a sample project repository for the GitHub exercise in our collaboration
 7. **Alex Ruck**
         - **Introduction**: Hi my name is Alex, and I'm a first year student doing computer science.
         - **Favorite Programming Language**: Python is my favourite programming language as I find it the easiest to understand
+
+8. **Liz**
+        - **Introduction**: Hi my name is Liz, and I'm a first year student undertaking Digital Business and Supply Chain Management.
+        - **Favorite Programming Language**: Don't really have a favourite programming language. Although I find HTML easier to understand/problem solve, also VBA (Excel) which was an interesting experience. 
    
 ## Step 1: Fork the Repository
 1. Go to the repository link provided by the instructor.
